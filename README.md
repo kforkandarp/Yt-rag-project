@@ -45,7 +45,7 @@ Built with LangChain, FAISS, Groq (LLaMA 3.3 70B), and Streamlit.
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/kforkandarp/Yt-rag-project
-cd YOURREPONAME
+cd Yt-rag-project
 ```
 
 ### 2. Create and activate a virtual environment
